@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ipaytest</string>
+    <string name="cancel_purchase">cancel</string>
+    <string name="btn_pay_now">paynow</string>
+</resources>
